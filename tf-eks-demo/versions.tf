@@ -1,4 +1,4 @@
 
 terraform {
-  required_version = ">= 0.12"
+  required_version = ">= v1.1.4"
 }
